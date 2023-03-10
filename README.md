@@ -43,7 +43,7 @@ Determining market viability for current Intellectual Property in company catalo
 ## For More Information
 See the full analysis in the [Jupyter Notebook](https://github.com/kmatk/Movie_Studio_P1_Project/blob/main/Movie_Studio_Recommendations.ipynb) or review this [presentation](https://github.com/kmatk/Movie_Studio_P1_Project/blob/main/Microsoft_Studios_Presentation.pdf)
 
-For additional info, contact [Kevin Atkinson](kmatk620@gmail.com), [Vlad Sekiguchi](vladiseki@yahoo.com) 
+For additional info, contact [Kevin Atkinson](mailto:kmatk620@gmail.com), [Vlad Sekiguchi](mailto:vladiseki@yahoo.com) 
 
 ## Repository Structure
 
