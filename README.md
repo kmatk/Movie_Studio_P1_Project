@@ -51,8 +51,8 @@ For additional info, contact [Kevin Atkinson](mailto:kmatk620@gmail.com), [Vlad 
 ├── code
 │   ├── Budgets_EDA.ipynb
 │   ├── imdb_db_EDA.ipynb
-│   ├── VS Data Cleaning.ipynb
-│   └── JN Rough Draft template_vs.ipynb
+│   ├── VS_Data_Cleaning.ipynb
+│   └── JN_Rough_Draft template_vs.ipynb
 ├── data
 ├── images
 ├── README.md
