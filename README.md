@@ -1,8 +1,8 @@
-![Microsoft Movie Studio](./images/Logo.png)
+<p align="center">![Microsoft Movie Studio](./images/Logo.png)</p>
 
 # Microsoft Movie Studio Analysis & Recommendations
 
-**Authors**: [Kevin Atkinson](kmatk620@gmail.com), [Vlad Sekiguchi](vladiseki@yahoo.com)
+**Authors**: [Kevin Atkinson](mailto:kmatk620@gmail.com), [Vlad Sekiguchi](mailto:vladiseki@yahoo.com)
 
 ## Overview
 
