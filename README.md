@@ -1,4 +1,4 @@
-<p align="center">![Microsoft Movie Studio](./images/Logo.png)</p>
+![Microsoft Movie Studio](./images/Logo.png)
 
 # Microsoft Movie Studio Analysis & Recommendations
 
